@@ -1,0 +1,30 @@
+body{
+    background-color: darkgray;
+}
+.container-fluid{
+    box-shadow: 2px 2px 10px;
+    width: 190px;
+    border-radius: 10px;
+    margin-top: 25%;
+    background-color: black;
+}
+button{
+    margin: 7px;
+    padding: 7px;
+    border-radius: 50px;
+    font-size: 15px;
+    border: none;
+}
+button:hover{
+    background-color: blueviolet;
+}
+#result{
+    margin: 10px;
+    background-color: rgb(238, 231, 231);
+    height: 30px;
+}
+.key{
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    
+}
